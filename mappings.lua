@@ -1,6 +1,6 @@
 return {
   n = {
-    ["<M-j>"] = { ":bprevious<cr>", desc = "Next buffer" },
-    ["<M-k>"] = { ":bnext<cr>", desc = "Previous buffer" },
+    ["<M-k>"] = { ":bprevious<cr>", desc = "Next buffer" },
+    ["<M-j>"] = { ":bnext<cr>", desc = "Previous buffer" },
   }
 }
